@@ -1,0 +1,21 @@
+{
+  "name": "oatmeal-cookie",
+  "version": "0.0.1",
+  "description": "Simpliest fully functioning cookie library",
+  "main": "cookie.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rakoth/oatmeal-cookie.git"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "devDependencies": {
+    "jasmine": "^2.2.1"
+  },
+  "author": "Alexander Stanko <astanko@aviasales.ru>",
+  "license": "MIT"
+}
