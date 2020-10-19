@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Simpliest fully functioning cookie library",
   "main": "cookie.js",
+  "typings": "cookie.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/Rakoth/oatmeal-cookie.git"
