@@ -1,12 +1,15 @@
 {
-  "name": "oatmeal-cookie",
-  "version": "0.0.1",
+  "name": "@aviasales/cookie",
+  "version": "1.0.0",
   "description": "Simpliest fully functioning cookie library",
   "main": "cookie.js",
   "typings": "cookie.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Rakoth/oatmeal-cookie.git"
+    "url": "git://github.com:KosyanMedia/oatmeal-cookie.git"
+  },
+  "publishConfig": {
+    "registry": "http://npm.int.avs.io/repository/npm-hosted/"
   },
   "scripts": {
     "test": "jasmine"
